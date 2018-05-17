@@ -102,6 +102,8 @@ Metabolic Models:
         - popFBA
         - uFBA
         - mdFBA
+        - deFBA
+        - sdeFBA
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
