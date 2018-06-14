@@ -71,6 +71,7 @@ Metabolic Models:
           - OnePrune
           - CORDA
         - omFBA
+        - LBFBA
         - GCFlux
         - HPCOF
         - RegrEx
