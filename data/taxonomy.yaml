@@ -41,6 +41,7 @@ Metabolic Models:
         - NET
         - TFA
         - EBA
+        - TEX-FBA
         - Thermodynamic uncertainty analysis:
           - TMSA
           - ORACLE
