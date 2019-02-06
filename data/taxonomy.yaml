@@ -169,6 +169,7 @@ Metabolic Models:
             - dOptCom
             - DMMM
             - AMIGO2
+            - GANGSTA
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
