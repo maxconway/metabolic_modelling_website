@@ -65,6 +65,7 @@ Metabolic Models:
           - PRIME
           - E-Fmin
           - PROM
+          - TEX-FBA
         - Network Pruning:
           - MBA
           - FASTCORE
