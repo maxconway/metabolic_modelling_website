@@ -122,6 +122,8 @@ Metabolic Models:
         - OptKnock
         - RobustKnock
         - ReacKnock
+        - gcOpt
+        - OptCouple
       - Reaction addition design:
         - OptStrain
         - SimOptStrain
