@@ -42,6 +42,7 @@ Metabolic Models:
         - TFA
         - EBA
         - TEX-FBA
+        - ETFL
         - Thermodynamic uncertainty analysis:
           - TMSA
           - ORACLE
