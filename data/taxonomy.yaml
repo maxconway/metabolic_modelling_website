@@ -43,6 +43,7 @@ Metabolic Models:
         - EBA
         - TEX-FBA
         - ETFL
+        - REMI
         - Thermodynamic uncertainty analysis:
           - TMSA
           - ORACLE
@@ -67,6 +68,9 @@ Metabolic Models:
           - E-Fmin
           - PROM
           - TEX-FBA
+          - iReMet-Flux
+          - TREM‐Flux
+          - GX-FBA
           - RMetD2
         - Network Pruning:
           - MBA
@@ -80,6 +84,7 @@ Metabolic Models:
         - HPCOF
         - RegrEx
         - OptRAM
+        - REMI
       - Regulatory mechanisms:
         - rFBA
         - SR-FBA
@@ -178,6 +183,7 @@ Metabolic Models:
             - DMMM
             - AMIGO2
             - GANGSTA
+            - TREM‐Flux
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
@@ -187,4 +193,3 @@ Metabolic Models:
             - OptCom            
             - COMETS
             - MCM
-
