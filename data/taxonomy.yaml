@@ -37,6 +37,7 @@ Metabolic Models:
         - TMFA
         - tFVA
         - stFBA
+        - Fast-tFVA
       - Thermodynamic parameter-based analysis:
         - NET
         - TFA
