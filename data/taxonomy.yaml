@@ -60,6 +60,7 @@ Metabolic Models:
           - GIM3E
           - tINIT
           - FASTCORMICS
+          - TIMBR
         - Valve:
           - EFlux
           - Eflux2
@@ -69,7 +70,6 @@ Metabolic Models:
           - E-Fmin
           - PROM
           - TEX-FBA
-          - TIMBR
           - iReMet-Flux
           - TREM‐Flux
           - GX-FBA
