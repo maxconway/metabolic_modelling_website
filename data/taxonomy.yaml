@@ -74,6 +74,7 @@ Metabolic Models:
           - TREM‐Flux
           - GX-FBA
           - RMetD2
+          - scFBA
         - Network Pruning:
           - MBA
           - FASTCORE
