@@ -67,6 +67,7 @@ Metabolic Models:
           - E-Fmin
           - PROM
           - TEX-FBA
+          - RMetD2
         - Network Pruning:
           - MBA
           - FASTCORE
