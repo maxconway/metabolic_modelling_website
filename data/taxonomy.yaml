@@ -119,6 +119,7 @@ Metabolic Models:
         - mdFBA
         - deFBA
         - sdeFBA
+        - scFBA
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
