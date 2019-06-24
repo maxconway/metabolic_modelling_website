@@ -30,6 +30,7 @@ Metabolic Models:
       - CHHR
       - ll-ACHRB
       - Exometobolome effect on internal states
+      - Reversible Jump MCMC
   - Biased:
     - Thermodynamics:
       - Loop removal:
