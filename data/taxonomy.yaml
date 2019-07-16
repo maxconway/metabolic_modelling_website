@@ -30,6 +30,7 @@ Metabolic Models:
       - CHHR
       - ACHR.cu
       - ll-ACHRB
+      - optGpSampler
       - Exometobolome effect on internal states
       - Reversible Jump MCMC
   - Biased:
