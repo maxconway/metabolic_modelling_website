@@ -28,6 +28,7 @@ Metabolic Models:
     - Sampling the solution space:
       - MCMC
       - CHHR
+      - ACHR.cu
       - ll-ACHRB
       - Exometobolome effect on internal states
       - Reversible Jump MCMC
