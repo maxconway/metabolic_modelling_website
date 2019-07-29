@@ -197,7 +197,8 @@ Metabolic Models:
           - Community Analysis:
             - cFBA
             - CASINO toolbox
-            - OptCom            
+            - OptCom 
+            - SteadyCom
             - COMETS
             - MCM
             - RedCom
