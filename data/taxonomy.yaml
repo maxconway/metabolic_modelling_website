@@ -192,6 +192,7 @@ Metabolic Models:
             - AMIGO2
             - GANGSTA
             - TREM‐Flux
+            - µbialSim
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
