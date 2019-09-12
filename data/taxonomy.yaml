@@ -100,6 +100,7 @@ Metabolic Models:
         - FlexFlux
         - MUFINS
         - OptRAM
+        - MOOMIN
     - Flux balance analysis:
       - Alternate optima:
         - FVA
