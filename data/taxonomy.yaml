@@ -91,6 +91,7 @@ Metabolic Models:
         - RegrEx
         - OptRAM
         - REMI
+        - RIPTiDe
       - Regulatory mechanisms:
         - rFBA
         - SR-FBA
