@@ -124,6 +124,7 @@ Metabolic Models:
         - mdFBA
         - deFBA
         - sdeFBA
+        - r-deFBA
         - scFBA
       - Removal of constraints:
         - flexFBA
