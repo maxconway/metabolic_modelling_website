@@ -126,6 +126,7 @@ Metabolic Models:
         - sdeFBA
         - r-deFBA
         - scFBA
+        - Decrem
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
@@ -171,6 +172,10 @@ Metabolic Models:
         - GAUGE
         - BoostGAPFILL
         - MatBOOST
+        - OptFill
+      - Error identification:
+        - ModelExplorer
+        - ErrorTracer
       - Objective function development:
         - Bayesian selection
         - Weighted sum method
