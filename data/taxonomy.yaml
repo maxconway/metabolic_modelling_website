@@ -167,7 +167,7 @@ Metabolic Models:
         - GapFind
         - GapFill
         - fastGapFill
-        - SONEC
+        - FastGapFilling
         - EnsembleFBA
         - GLOBALFIT
         - GAUGE
