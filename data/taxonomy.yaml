@@ -174,6 +174,7 @@ Metabolic Models:
         - BoostGAPFILL
         - MatBOOST
         - OptFill
+        - TaxVariable-Freq
       - Error identification:
         - ModelExplorer
         - ErrorTracer
