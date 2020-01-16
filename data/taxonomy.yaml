@@ -92,7 +92,7 @@ Metabolic Models:
         - RegrEx
         - OptRAM
         - REMI
-        - RIPTiDe
+        - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
       - Regulatory mechanisms:
         - rFBA
         - SR-FBA
@@ -128,6 +128,7 @@ Metabolic Models:
         - r-deFBA
         - scFBA
         - Decrem
+        - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
