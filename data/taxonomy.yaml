@@ -79,20 +79,21 @@ Metabolic Models:
           - GX-FBA
           - RMetD2
           - scFBA
+          - iMTBGO
         - Network Pruning:
           - MBA
           - FASTCORE
           - mCADRE
           - OnePrune
           - CORDA
-        - omFBA
-        - LBFBA
-        - GCFlux
-        - HPCOF
-        - RegrEx
-        - OptRAM
-        - REMI
-        - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
+          - omFBA
+          - LBFBA
+          - GCFlux
+          - HPCOF
+          - RegrEx
+          - OptRAM
+          - REMI
+          - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
       - Regulatory mechanisms:
         - rFBA
         - SR-FBA
@@ -201,8 +202,8 @@ Metabolic Models:
             - SoSA
           - MOEA:
             - NSGA-II
-          - LPPFBA
-          - CoPE-FBA  
+            - LPPFBA
+            - CoPE-FBA  
           - Dynamic flux states:
             - MetDFBA
             - dOptCom
