@@ -103,6 +103,7 @@ Metabolic Models:
         - MUFINS
         - OptRAM
         - MOOMIN
+        - BayRegMet
     - Flux balance analysis:
       - Alternate optima:
         - FVA
@@ -114,6 +115,7 @@ Metabolic Models:
         - tFBA
         - TRFBA
         - sparse FBA
+        - BayRegMet
       - FBA with biological constraints:
         - pFBA        
         - Conditional FBA
