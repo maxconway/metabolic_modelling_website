@@ -150,6 +150,7 @@ Metabolic Models:
         - ReacKnock
         - gcOpt
         - OptCouple
+        - CubeProd
       - Reaction addition design:
         - OptStrain
         - SimOptStrain
