@@ -131,6 +131,10 @@ Metabolic Models:
         - scFBA
         - Decrem
         - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
+        - FBAwMC (FBA with Molecular Crowding)
+        - GECKO
+        - MOMENT
+        - sMOMENT
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
