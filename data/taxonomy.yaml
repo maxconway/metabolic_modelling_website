@@ -212,6 +212,7 @@ Metabolic Models:
             - GANGSTA
             - TREM‐Flux
             - µbialSim
+            - LK-DFBA
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
