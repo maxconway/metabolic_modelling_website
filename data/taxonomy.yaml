@@ -11,6 +11,7 @@ Metabolic Models:
         - K-shortest EFMs
         - Graph-based methods 
         - MEMos
+        - MinReact
       - Generating flux modes/minimal generators:
         - Minimal metabolic behaviours
         - K-shortest GFMs 
