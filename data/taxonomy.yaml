@@ -81,6 +81,7 @@ Metabolic Models:
         - Network Pruning:
           - MBA
           - FASTCORE
+          - MIRAGE
           - mCADRE
           - OnePrune
           - CORDA
@@ -93,7 +94,6 @@ Metabolic Models:
           - REMI
           - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
       - Metabolic task derived:
-          - MIRAGE
           - MADE
           - PRIME
           - tINIT
