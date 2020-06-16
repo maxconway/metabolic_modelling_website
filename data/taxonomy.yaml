@@ -62,7 +62,6 @@ Metabolic Models:
           - INIT
           - GIMME
           - GIM3E
-          - FASTCORMICS
         - Valve:
           - EFlux
           - Eflux2
@@ -80,6 +79,7 @@ Metabolic Models:
         - Network Pruning:
           - MBA
           - FASTCORE
+          - FASTCORMICS
           - MIRAGE
           - mCADRE
           - OnePrune
