@@ -63,15 +63,12 @@ Metabolic Models:
           - MADE
           - GIMME
           - GIM3E
-          - tINIT
           - FASTCORMICS
-          - TIMBR
         - Valve:
           - EFlux
           - Eflux2
           - METRADE
           - FALCON
-          - PRIME
           - E-Fmin
           - PROM
           - TEX-FBA
@@ -95,6 +92,12 @@ Metabolic Models:
           - OptRAM
           - REMI
           - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
+      - Metabolic task derived:
+          - MIRAGE
+          - MADE
+          - PRIME
+          - tINIT
+          - TIMBR
       - Regulatory mechanisms:
         - rFBA
         - SR-FBA
