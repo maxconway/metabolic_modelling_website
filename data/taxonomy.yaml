@@ -92,6 +92,9 @@ Metabolic Models:
           - OptRAM
           - REMI
           - RIPTiDe (Reaction Inclusion by Parsimony and Transcript Distribution)
+          - redGEM
+          - redGEMX 
+          - lumpGEM
       - Metabolic task derived:
           - MADE
           - PRIME
