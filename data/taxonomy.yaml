@@ -79,6 +79,7 @@ Metabolic Models:
         - Network Pruning:
           - MBA
           - FASTCORE
+          - SWIFTCORE
           - FASTCORMICS
           - MIRAGE
           - mCADRE
