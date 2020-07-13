@@ -31,6 +31,7 @@ Metabolic Models:
       - MCMC
       - CHHR
       - ACHR.cu
+      - OPTGP
       - ll-ACHRB
       - optGpSampler
       - Exometobolome effect on internal states
