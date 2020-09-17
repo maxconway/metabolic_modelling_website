@@ -144,6 +144,7 @@ Metabolic Models:
         - GECKO
         - MOMENT
         - sMOMENT
+        - GrOE‐FBA
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
