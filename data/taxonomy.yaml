@@ -36,6 +36,7 @@ Metabolic Models:
       - optGpSampler
       - Exometobolome effect on internal states
       - Reversible Jump MCMC
+      - ComMet 
   - Biased:
     - Thermodynamics:
       - Loop removal:
