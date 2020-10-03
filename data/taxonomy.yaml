@@ -117,6 +117,8 @@ Metabolic Models:
     - Flux balance analysis:
       - Alternate optima:
         - FVA
+        - fastFVA
+        - VFFVA
         - DFBA
         - Bayesian FBA
         - BaMFA
