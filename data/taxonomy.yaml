@@ -98,6 +98,7 @@ Metabolic Models:
           - redGEM
           - redGEMX 
           - lumpGEM
+          - NetRed
       - Metabolic task derived:
           - MADE
           - PRIME
