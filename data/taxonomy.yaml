@@ -149,6 +149,7 @@ Metabolic Models:
         - MOMENT
         - sMOMENT
         - GrOE‐FBA
+        - ccFBA (carbon constraint FBA)
       - Removal of constraints:
         - flexFBA
         - time-linked FBA
