@@ -21,6 +21,8 @@ Metabolic Models:
       - Pathway enrichment:
         - NetPEA
         - NetGSA
+        - ReactPRED
+        - RetroPath2.0
       - Pathway prediction:
         - GEM-Path
         - BNICE
