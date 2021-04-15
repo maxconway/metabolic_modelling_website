@@ -132,6 +132,7 @@ Metabolic Models:
         - TRFBA
         - sparse FBA
         - BayRegMet
+        - FastMM
       - FBA with biological constraints:
         - pFBA        
         - Conditional FBA
@@ -183,6 +184,7 @@ Metabolic Models:
       - REMEP
       - FBrAtio
       - OptRAM
+      - FastMM
     - Model refinement:
       - Gap-filling:
         - OMNI
