@@ -232,6 +232,8 @@ Metabolic Models:
             - TREM‐Flux
             - µbialSim
             - LK-DFBA
+            - CODY
+            - ORKA
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
@@ -240,8 +242,12 @@ Metabolic Models:
             - CASINO toolbox
             - OptCom 
             - SteadyCom
+            - NECom
             - COMETS
             - MCM
             - RedCom
             - MAMBO
             - ACBM
+            - BacArena 
+            - MiCOM
+            - Microbiome Modeling Toolbox
