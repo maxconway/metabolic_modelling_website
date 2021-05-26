@@ -234,6 +234,7 @@ Metabolic Models:
             - LK-DFBA
             - CODY
             - ORKA
+            - FLYCOP
           - Pareto Curve Analysis:
             - DAE solvers
             - NISE/MOFBA
@@ -251,3 +252,4 @@ Metabolic Models:
             - BacArena 
             - MiCOM
             - Microbiome Modeling Toolbox
+            - IndiMeSH
