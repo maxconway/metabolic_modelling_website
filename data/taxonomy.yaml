@@ -204,6 +204,7 @@ Metabolic Models:
         - MatBOOST
         - OptFill
         - TaxVariable-Freq (doi:10.1093/bioinformatics/btz813)
+        - G2F 
       - Error identification:
         - ModelExplorer
         - ErrorTracer
