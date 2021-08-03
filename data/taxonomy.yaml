@@ -134,6 +134,7 @@ Metabolic Models:
         - BayRegMet
         - FastMM
         - ORKA
+        - LK-DFBA
       - FBA with biological constraints:
         - pFBA        
         - Conditional FBA
