@@ -27,6 +27,7 @@ Metabolic Models:
         - GEM-Path
         - BNICE
         - MinSpan
+        - gapseq
     - Message Passing
     - Symbolic flux analysis
     - Sampling the solution space:
