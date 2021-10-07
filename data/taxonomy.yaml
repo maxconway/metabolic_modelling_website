@@ -69,6 +69,7 @@ Metabolic Models:
           - INIT
           - GIMME
           - GIM3E
+          - AdaM 
         - Valve:
           - EFlux
           - Eflux2
