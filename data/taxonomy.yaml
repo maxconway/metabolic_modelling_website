@@ -138,6 +138,7 @@ Metabolic Models:
         - FastMM
         - ORKA
         - LK-DFBA
+        - DEXOM
       - FBA with biological constraints:
         - pFBA        
         - Conditional FBA
